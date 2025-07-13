@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  min-width: var(--container-xs);
+  font-size: var(--text-base);
+  color: var(--color-neutral-50);
+  background: var(--color-neutral-900);
+}
